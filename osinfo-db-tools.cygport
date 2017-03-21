@@ -1,0 +1,11 @@
+NAME="osinfo-db-tools"
+VERSION=1.1.0
+RELEASE=1
+CATEGORY="System"
+SUMMARY="OS info database tools"
+DESCRIPTION="libosinfo is a project providing information about operating
+systems, hypervisors and the (virtual) hardware devices they can support.
+This package contains a set of tools to assist administrators and developers
+in managing the database."
+HOMEPAGE="https://libosinfo.org/"
+SRC_URI="https://releases.pagure.org/libosinfo/osinfo-db-tools-1.1.0.tar.gz"
